@@ -29,14 +29,14 @@ python news_reader_app.py
 ```
 
 2. Example Output
-
+```backtick
 --- News 1 ---
 Title: First News
 Content: This is the first news content.
 Category: Politics
 Author: Ali Rezaei
 Date: 2025-09-04
-
+```
 --- News 2 ---
 Title: Second News
 Content: This is the second news content.
