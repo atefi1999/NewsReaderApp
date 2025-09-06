@@ -52,7 +52,7 @@ Author: Hossein Mohammadi
 Date: 2025-09-02
 ```
 📌 Political News:
-
+```backtick
 --- News 1 ---
 Title: First News
 Content: This is the first news content.
@@ -66,6 +66,7 @@ Content: This is the third news content.
 Category: Politics
 Author: Hossein Mohammadi
 Date: 2025-09-02
+```
 
 ✅ News found:
 Title: Second News
@@ -79,7 +80,7 @@ Date: 2025-09-03
 ℹ️ News 'First News' is already saved.
 
 📌 Saved news by reza:
-
+```backtick
 --- News 1 ---
 Title: First News
 Content: This is the first news content.
@@ -93,9 +94,11 @@ Content: This is the second news content.
 Category: Sports
 Author: Maryam Ahmadi
 Date: 2025-09-03
-
-📂 Project Structure
-
+```
+---
+# 📂 Project Structure
+```markdown
 .
 ├── news_reader_app.py  # Main program
 └── README.md           # Project documentation
+```
