@@ -26,7 +26,7 @@ Users can add news, list them by category, search by title, and save their favor
 ### 1. Sample Run
 ```bash
 python news_reader_app.py
-
+```
 
 2. Example Output
 
