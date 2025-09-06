@@ -28,7 +28,7 @@ Users can add news, list them by category, search by title, and save their favor
 python news_reader_app.py
 ```
 
-2. Example Output
+### 2. Example Output
 ```backtick
 --- News 1 ---
 Title: First News
@@ -69,6 +69,8 @@ Date: 2025-09-02
 ```
 
 ✅ News found:
+```backtick
+
 Title: Second News
 Content: This is the second news content.
 Category: Sports
@@ -78,6 +80,7 @@ Date: 2025-09-03
 ✅ News 'First News' saved for user reza.
 ✅ News 'Second News' saved for user reza.
 ℹ️ News 'First News' is already saved.
+```
 
 📌 Saved news by reza:
 ```backtick
