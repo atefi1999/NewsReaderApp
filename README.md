@@ -1,4 +1,4 @@
-# NewsReaderApp
+# News Reader App
 
 A simple Python application to **manage, search, and save news articles**.  
 Users can add news, list them by category, search by title, and save their favorite news.
@@ -6,6 +6,7 @@ Users can add news, list them by category, search by title, and save their favor
 ---
 
 ## ✨ Features
+
 - Add and remove news articles
 - List all news
 - Search news by title
@@ -16,6 +17,7 @@ Users can add news, list them by category, search by title, and save their favor
 ---
 
 ## 🛠 Requirements
+
 - Python 3.x  
 > No external libraries are needed — only Python standard library.
 
@@ -34,21 +36,21 @@ python news_reader_app.py
 Title: First News
 Content: This is the first news content.
 Category: Politics
-Author: Ali Rezaei
+Author: Bob
 Date: 2025-09-04
 
 --- News 2 ---
 Title: Second News
 Content: This is the second news content.
 Category: Sports
-Author: Maryam Ahmadi
+Author: Sara
 Date: 2025-09-03
 
 --- News 3 ---
 Title: Third News
 Content: This is the third news content.
 Category: Politics
-Author: Hossein Mohammadi
+Author: Rose
 Date: 2025-09-02
 ```
 📌 Political News:
@@ -57,14 +59,14 @@ Date: 2025-09-02
 Title: First News
 Content: This is the first news content.
 Category: Politics
-Author: Ali Rezaei
+Author: Bob
 Date: 2025-09-04
 
 --- News 2 ---
 Title: Third News
 Content: This is the third news content.
 Category: Politics
-Author: Hossein Mohammadi
+Author: Rose
 Date: 2025-09-02
 ```
 
@@ -74,28 +76,28 @@ Date: 2025-09-02
 Title: Second News
 Content: This is the second news content.
 Category: Sports
-Author: Maryam Ahmadi
+Author: Sara
 Date: 2025-09-03
 
-✅ News 'First News' saved for user reza.
-✅ News 'Second News' saved for user reza.
+✅ News 'First News' saved for user George.
+✅ News 'Second News' saved for user George.
 ℹ️ News 'First News' is already saved.
 ```
 
-📌 Saved news by reza:
+📌 Saved news by George:
 ```backtick
 --- News 1 ---
 Title: First News
 Content: This is the first news content.
 Category: Politics
-Author: Ali Rezaei
+Author: Bob
 Date: 2025-09-04
 
 --- News 2 ---
 Title: Second News
 Content: This is the second news content.
 Category: Sports
-Author: Maryam Ahmadi
+Author: Sara
 Date: 2025-09-03
 ```
 ---
